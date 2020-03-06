@@ -2,6 +2,7 @@
 # GameOfLife
 This game is going to be executed in the main class which will contain a main menu which is going to give the user
     the following options:
+	
         1. Random start(this option will just ask the user the size of the board and the number of cells he wants
         to create).
             This option is going to contain the following methods:
